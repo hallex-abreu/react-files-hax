@@ -10,5 +10,13 @@
     "Files"
   ],
   "author": "Hallex Abreu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallex-abreu/react-files-hax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hallex-abreu/react-files-hax/issues"
+  },
+  "homepage": "https://github.com/hallex-abreu/react-files-hax#readme"
 }
