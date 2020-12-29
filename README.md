@@ -19,6 +19,8 @@ For images
 
 ```js
 const download = require('react-files-hax')
+//or
+import download from 'react-files-hax';
 
 //Binary ajax Blob
 var x=new XMLHttpRequest();
@@ -32,6 +34,8 @@ For Plain Text:
 
 ```js
 const download = require('react-files-hax')
+//or
+import download from 'react-files-hax';
 
 //text string
 download("hello world", "dlText.txt", "text/plain");
@@ -55,6 +59,8 @@ For HTML:
 
 ```js
 const download = require('react-files-hax')
+//or
+import download from 'react-files-hax';
 
 //Html string
 download(document.body.outerHTML, "dlHTML.html", "text/html");
